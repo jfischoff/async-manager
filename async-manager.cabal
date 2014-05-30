@@ -4,7 +4,7 @@
 name:                async-manager
 version:             0.1.0.0
 synopsis:            A thread manager for async
--- description:         
+description:         Cleanup and kill async threads. 
 homepage:            http://github.com/jfischoff/async-manager
 license:             BSD3
 license-file:        LICENSE
